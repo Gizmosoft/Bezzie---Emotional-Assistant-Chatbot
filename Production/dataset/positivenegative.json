@@ -1,0 +1,434 @@
+[
+  {
+    "response": "My dad bought me a new Playstation ps",
+    "intent": "positive"
+  },
+  {
+    "response": "I received a prize in the competition today",
+    "intent": "positive"
+  },
+  {
+    "response": "I enjoyed in school",
+    "intent": "positive"
+  },
+  {
+    "response": "I like the way my teacher teaches me",
+    "intent": "positive"
+  },
+  {
+    "response": "From tomorrow I wont go to school",
+    "intent": "negative"
+  },
+  {
+    "response": "I guess I should feel�sad, but I don't.",
+    "intent": "negative"
+  },
+  {
+    "response": "I celebrated my birthday in school",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm feeling pretty good right now.",
+    "intent": "positive"
+  },
+  {
+    "response": "I am very lonely and�sad�now?",
+    "intent": "negative"
+  },
+  {
+    "response": "My friends are the worst in the world",
+    "intent": "negative"
+  },
+  {
+    "response": "My friend called me a cheat and is not talking to me. But I didn�t do anything wrong",
+    "intent": "negative"
+  },
+  {
+    "response": "I loved my family trip",
+    "intent": "positive"
+  },
+  {
+    "response": "It feels so good taking a long vacation.",
+    "intent": "positive"
+  },
+  {
+    "response": "He has�sad�eyes, like me.",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my mom",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel like I'm on top of the world.",
+    "intent": "positive"
+  },
+  {
+    "response": "Yes I am sad",
+    "intent": "negative"
+  },
+  {
+    "response": "I like the way teacher talks to me and asks me about my day. I love the way she speaks and shares talks with me",
+    "intent": "positive"
+  },
+  {
+    "response": "My dad bought me a new bike cycle bicycle",
+    "intent": "positive"
+  },
+  {
+    "response": "We had so much fun eating our tiffin food in class. That was epic",
+    "intent": "positive"
+  },
+  {
+    "response": "I don�t know why people treat me that way in the school. What have I done wrong to them?",
+    "intent": "negative"
+  },
+  {
+    "response": "Me and my bros went out to play in the ground after bunking the class. It was hell lot of fun",
+    "intent": "positive"
+  },
+  {
+    "response": "How�sad�that his smile was so rare.",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my grand dad",
+    "intent": "positive"
+  },
+  {
+    "response": "our sports sir is very good",
+    "intent": "positive"
+  },
+  {
+    "response": "I got appreciated by the principal today",
+    "intent": "positive"
+  },
+  {
+    "response": "I hate going to school",
+    "intent": "negative"
+  },
+  {
+    "response": "She clearly felt�sad�to see this day end",
+    "intent": "negative"
+  },
+  {
+    "response": "It is so amazing to go out with family",
+    "intent": "positive"
+  },
+  {
+    "response": "My class teacher scolded me in front of the whgole class",
+    "intent": "negative"
+  },
+  {
+    "response": "My friends are such bad people",
+    "intent": "negative"
+  },
+  {
+    "response": "My class teacher is very nice",
+    "intent": "positive"
+  },
+  {
+    "response": "I love my dad",
+    "intent": "positive"
+  },
+  {
+    "response": "Everyone around my locality recognize me",
+    "intent": "positive"
+  },
+  {
+    "response": "we have a lot of fun in school",
+    "intent": "positive"
+  },
+  {
+    "response": "He felt�sad�and depressed.",
+    "intent": "negative"
+  },
+  {
+    "response": "I got scoldings for not completing my homework",
+    "intent": "negative"
+  },
+  {
+    "response": "It was so amusing to mimic our teacher in class.",
+    "intent": "positive"
+  },
+  {
+    "response": "Some elder boys are bullying me in school",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel like a champion.",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm on cloud nine right now.",
+    "intent": "positive"
+  },
+  {
+    "response": "everyone is so happy in my family",
+    "intent": "positive"
+  },
+  {
+    "response": "I don�t know why my friends behave so bad with me?",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my sister",
+    "intent": "positive"
+  },
+  {
+    "response": "the outside world is getting worst",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my class teacher",
+    "intent": "positive"
+  },
+  {
+    "response": "My family is planning to go for a vacation",
+    "intent": "positive"
+  },
+  {
+    "response": "I enjoyed being with mom and dad all day long",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm in a very good mood.",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm so stoked.",
+    "intent": "positive"
+  },
+  {
+    "response": "I love the  morning prayers in school",
+    "intent": "positive"
+  },
+  {
+    "response": "I had a fight with my best friend. She wont talk to me",
+    "intent": "negative"
+  },
+  {
+    "response": "Mom cooks food so well, I love her dishes",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm done with my life and this school",
+    "intent": "negative"
+  },
+  {
+    "response": "I shall never forget it: I felt�sad�and sorry for everyone, for myself, and for everyone.",
+    "intent": "negative"
+  },
+  {
+    "response": "My teacher appreciated me in the class today",
+    "intent": "positive"
+  },
+  {
+    "response": "the outside world is getting depressing",
+    "intent": "negative"
+  },
+  {
+    "response": "I had to stand my whole class with arms up In the air for not completing my homework",
+    "intent": "negative"
+  },
+  {
+    "response": "School is good",
+    "intent": "positive"
+  },
+  {
+    "response": "Vacation with family is so much fun",
+    "intent": "positive"
+  },
+  {
+    "response": "My girlfriends are all so mean. Why do people behave so bad",
+    "intent": "negative"
+  },
+  {
+    "response": "My mom is proud of me",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel like a king.",
+    "intent": "positive"
+  },
+  {
+    "response": "I wish I stay in school all day",
+    "intent": "positive"
+  },
+  {
+    "response": "Why am I getting bullied every now and then?",
+    "intent": "negative"
+  },
+  {
+    "response": "I hate going to school every day and getting beaten by teachers and seniors",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my friends gang, we have so much fun",
+    "intent": "positive"
+  },
+  {
+    "response": "I got fat shamed today by my classmates in front of the teacher and she did not stop them",
+    "intent": "negative"
+  },
+  {
+    "response": "I got beaten up by some boys today at school",
+    "intent": "negative"
+  },
+  {
+    "response": "I don�t like getting dragged and beaten up by classmates in front of girls",
+    "intent": "negative"
+  },
+  {
+    "response": "I got an appreciation certificate in front of the whole school",
+    "intent": "positive"
+  },
+  {
+    "response": "I like to share my things with my teacher",
+    "intent": "positive"
+  },
+  {
+    "response": "My brother was jumping around everywhere when he heard he got into Stanford.",
+    "intent": "positive"
+  },
+  {
+    "response": "My teacher never scolds anyone",
+    "intent": "positive"
+  },
+  {
+    "response": "This is depressing",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel like I'm in paradise.",
+    "intent": "positive"
+  },
+  {
+    "response": "I like going to school",
+    "intent": "positive"
+  },
+  {
+    "response": "I don�t like going to school.",
+    "intent": "negative"
+  },
+  {
+    "response": "I had a great good time in school today",
+    "intent": "positive"
+  },
+  {
+    "response": "I got a prize today so everyone is happy with me",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel great!",
+    "intent": "positive"
+  },
+  {
+    "response": "This is so awesome. I can't believe this happened.",
+    "intent": "positive"
+  },
+  {
+    "response": "It made him feel incredibly�sad, and worse, he wasn't sure why.",
+    "intent": "negative"
+  },
+  {
+    "response": "My bestfriend behave very rudely with me, I don�t know whats wrong with him her?",
+    "intent": "negative"
+  },
+  {
+    "response": "I was punished by my sports teacher today",
+    "intent": "negative"
+  },
+  {
+    "response": "I hate being a part of my friends group!",
+    "intent": "negative"
+  },
+  {
+    "response": "I was applauded on stage by the whole school",
+    "intent": "positive"
+  },
+  {
+    "response": "I love going out with my family",
+    "intent": "positive"
+  },
+  {
+    "response": "No. But it's so�sad�reading about it.",
+    "intent": "negative"
+  },
+  {
+    "response": "My dad is proud of me",
+    "intent": "positive"
+  },
+  {
+    "response": "I had a fight with my best friend. He wont talk to me",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel invincible.",
+    "intent": "positive"
+  },
+  {
+    "response": "I got everything I ever wanted. I feel so blessed",
+    "intent": "positive"
+  },
+  {
+    "response": "My parents are proud of me",
+    "intent": "positive"
+  },
+  {
+    "response": "I was very, very�sad�to part with all of my friends",
+    "intent": "negative"
+  },
+  {
+    "response": "I got scolded for doing nothing today. Why does this happen to me all the time?",
+    "intent": "negative"
+  },
+  {
+    "response": "there is no fun in attending school classes everyday",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my grandmother",
+    "intent": "positive"
+  },
+  {
+    "response": "I love my family",
+    "intent": "positive"
+  },
+  {
+    "response": "I hope I have made my family proud by securing this feat prize",
+    "intent": "positive"
+  },
+  {
+    "response": "our school is the best in the world",
+    "intent": "positive"
+  },
+  {
+    "response": "I suppose it would be a�sad�memory.",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my classmate, me and him had so much fun today",
+    "intent": "positive"
+  },
+  {
+    "response": "I liked how we all went out to party last night",
+    "intent": "positive"
+  },
+  {
+    "response": "school is so fun",
+    "intent": "positive"
+  },
+  {
+    "response": "She seemed so�sad�for him",
+    "intent": "negative"
+  },
+  {
+    "response": "I love my brother",
+    "intent": "positive"
+  },
+  {
+    "response": "I'm so glad I didn't have to go to work today.",
+    "intent": "positive"
+  }
+]

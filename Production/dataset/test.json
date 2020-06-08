@@ -1,0 +1,82 @@
+[
+  {
+    "response": "I think everyone around me hates me",
+    "intent": "negative"
+  },
+  {
+    "response": "things are going well with me",
+    "intent": "positive"
+  },
+  {
+    "response": "I got a new friend today",
+    "intent": "positive"
+  },
+  {
+    "response": "I don�t feel like living anymore",
+    "intent": "negative"
+  },
+  {
+    "response": "Why are all people like this in this world",
+    "intent": "negative"
+  },
+  {
+    "response": "I had a bad day at office today",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel like everything is going my way finally",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel sad",
+    "intent": "negative"
+  },
+  {
+    "response": "I am happy that I got promoted today",
+    "intent": "positive"
+  },
+  {
+    "response": "its good to hear good things about myself from others",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel lonely",
+    "intent": "negative"
+  },
+  {
+    "response": "I shared many personal things with a friend today",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel good",
+    "intent": "positive"
+  },
+  {
+    "response": "We talked and talked a lot about many things",
+    "intent": "positive"
+  },
+  {
+    "response": "I feel terrible",
+    "intent": "negative"
+  },
+  {
+    "response": "This world is such a bad place to live in",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel happy",
+    "intent": "positive"
+  },
+  {
+    "response": "I had a very bad day in college",
+    "intent": "negative"
+  },
+  {
+    "response": "I feel joyful",
+    "intent": "positive"
+  },
+  {
+    "response": "I don�t know why people hate me",
+    "intent": "negative"
+  }
+]

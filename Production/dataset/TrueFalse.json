@@ -1,0 +1,662 @@
+[
+  {
+    "response": "this happens often",
+    "intent": "yes"
+  },
+  {
+    "response": "yo",
+    "intent": "yes"
+  },
+  {
+    "response": "everything is perfect",
+    "intent": "no"
+  },
+  {
+    "response": "currently things are good",
+    "intent": "no"
+  },
+  {
+    "response": "I have no worries",
+    "intent": "no"
+  },
+  {
+    "response": "I don�t think like that",
+    "intent": "no"
+  },
+  {
+    "response": "everything is normal",
+    "intent": "no"
+  },
+  {
+    "response": "bad",
+    "intent": "yes"
+  },
+  {
+    "response": "Ya its right",
+    "intent": "yes"
+  },
+  {
+    "response": "that�s it",
+    "intent": "yes"
+  },
+  {
+    "response": "I don�t feel like that",
+    "intent": "no"
+  },
+  {
+    "response": "no not at all",
+    "intent": "no"
+  },
+  {
+    "response": "yes I am guilty",
+    "intent": "yes"
+  },
+  {
+    "response": "yess",
+    "intent": "yes"
+  },
+  {
+    "response": "TRUE",
+    "intent": "yes"
+  },
+  {
+    "response": "things are boring",
+    "intent": "yes"
+  },
+  {
+    "response": "I'm guilty",
+    "intent": "yes"
+  },
+  {
+    "response": "I think this happens very often",
+    "intent": "yes"
+  },
+  {
+    "response": "looks fine for now",
+    "intent": "no"
+  },
+  {
+    "response": "yeah I do",
+    "intent": "yes"
+  },
+  {
+    "response": "feels great for now",
+    "intent": "no"
+  },
+  {
+    "response": "looks perfectly fine",
+    "intent": "no"
+  },
+  {
+    "response": "yes it is difficult",
+    "intent": "yes"
+  },
+  {
+    "response": "this is incorrect",
+    "intent": "no"
+  },
+  {
+    "response": "yep",
+    "intent": "yes"
+  },
+  {
+    "response": "feel good",
+    "intent": "no"
+  },
+  {
+    "response": "I cant hurt myself",
+    "intent": "no"
+  },
+  {
+    "response": "yup I do",
+    "intent": "yes"
+  },
+  {
+    "response": "humm",
+    "intent": "yes"
+  },
+  {
+    "response": "I think it will be bad",
+    "intent": "yes"
+  },
+  {
+    "response": "yes I feel that way",
+    "intent": "yes"
+  },
+  {
+    "response": "always",
+    "intent": "yes"
+  },
+  {
+    "response": "yes its true",
+    "intent": "yes"
+  },
+  {
+    "response": "hum",
+    "intent": "yes"
+  },
+  {
+    "response": "everyday",
+    "intent": "yes"
+  },
+  {
+    "response": "I don�t feel like living anymore",
+    "intent": "yes"
+  },
+  {
+    "response": "I feel like hurting myself",
+    "intent": "yes"
+  },
+  {
+    "response": "my appetite is good",
+    "intent": "no"
+  },
+  {
+    "response": "I think I have a good amount of confidence",
+    "intent": "no"
+  },
+  {
+    "response": "no why would I think so",
+    "intent": "no"
+  },
+  {
+    "response": "this aint true",
+    "intent": "no"
+  },
+  {
+    "response": "I don�t think much bout my future",
+    "intent": "no"
+  },
+  {
+    "response": "absolutely right",
+    "intent": "yes"
+  },
+  {
+    "response": "I eat properly but sometimes I just binge on fast food",
+    "intent": "no"
+  },
+  {
+    "response": "wrong",
+    "intent": "no"
+  },
+  {
+    "response": "lifes good",
+    "intent": "no"
+  },
+  {
+    "response": "I do hurt myself sometimes",
+    "intent": "yes"
+  },
+  {
+    "response": "no I don�t think so",
+    "intent": "no"
+  },
+  {
+    "response": "feels perfect",
+    "intent": "no"
+  },
+  {
+    "response": "no not at all, I can sleep well",
+    "intent": "no"
+  },
+  {
+    "response": "this is the case most of the time",
+    "intent": "yes"
+  },
+  {
+    "response": "I hope it is not good",
+    "intent": "yes"
+  },
+  {
+    "response": "yes you are correct",
+    "intent": "yes"
+  },
+  {
+    "response": "correct",
+    "intent": "yes"
+  },
+  {
+    "response": "yes I dont find it interesting",
+    "intent": "yes"
+  },
+  {
+    "response": "sometimes it is very difficult to handle the pain so I hurt  myself",
+    "intent": "yes"
+  },
+  {
+    "response": "I am able to sleep properly",
+    "intent": "no"
+  },
+  {
+    "response": "yeah",
+    "intent": "yes"
+  },
+  {
+    "response": "no problem in concentrating",
+    "intent": "no"
+  },
+  {
+    "response": "no no",
+    "intent": "no"
+  },
+  {
+    "response": "who does that?",
+    "intent": "no"
+  },
+  {
+    "response": "things arent interesting",
+    "intent": "yes"
+  },
+  {
+    "response": "thats not the case",
+    "intent": "no"
+  },
+  {
+    "response": "yupp",
+    "intent": "yes"
+  },
+  {
+    "response": "yeah you are right",
+    "intent": "yes"
+  },
+  {
+    "response": "affirmative",
+    "intent": "yes"
+  },
+  {
+    "response": "I can concentrate",
+    "intent": "no"
+  },
+  {
+    "response": "im done",
+    "intent": "yes"
+  },
+  {
+    "response": "yes sometimes",
+    "intent": "yes"
+  },
+  {
+    "response": "I think I eat just right",
+    "intent": "no"
+  },
+  {
+    "response": "I don�t think so",
+    "intent": "no"
+  },
+  {
+    "response": "I don�t harm myself",
+    "intent": "no"
+  },
+  {
+    "response": "hmmmmm",
+    "intent": "yes"
+  },
+  {
+    "response": "who even does that",
+    "intent": "no"
+  },
+  {
+    "response": "no dude",
+    "intent": "no"
+  },
+  {
+    "response": "hmm",
+    "intent": "yes"
+  },
+  {
+    "response": "yes most of the time",
+    "intent": "yes"
+  },
+  {
+    "response": "not sleepy",
+    "intent": "yes"
+  },
+  {
+    "response": "right",
+    "intent": "yes"
+  },
+  {
+    "response": "everything seems normal",
+    "intent": "no"
+  },
+  {
+    "response": "I am not able to sleep",
+    "intent": "yes"
+  },
+  {
+    "response": "yeah I am less energetic",
+    "intent": "yes"
+  },
+  {
+    "response": "things look okay as of now",
+    "intent": "no"
+  },
+  {
+    "response": "yes always",
+    "intent": "yes"
+  },
+  {
+    "response": "you are absolutely right",
+    "intent": "yes"
+  },
+  {
+    "response": "nope",
+    "intent": "no"
+  },
+  {
+    "response": "no nothing like that",
+    "intent": "no"
+  },
+  {
+    "response": "this cant be true",
+    "intent": "no"
+  },
+  {
+    "response": "very few days it happens so otherwise things go normal",
+    "intent": "no"
+  },
+  {
+    "response": "I feel energetic",
+    "intent": "no"
+  },
+  {
+    "response": "I think I should not live",
+    "intent": "yes"
+  },
+  {
+    "response": "Its only some days that I sleep late",
+    "intent": "no"
+  },
+  {
+    "response": "hmmm",
+    "intent": "yes"
+  },
+  {
+    "response": "yes it is true",
+    "intent": "yes"
+  },
+  {
+    "response": "not interesting",
+    "intent": "yes"
+  },
+  {
+    "response": "I get a good night sleep",
+    "intent": "no"
+  },
+  {
+    "response": "that�s not a possibility",
+    "intent": "no"
+  },
+  {
+    "response": "everything is fine",
+    "intent": "no"
+  },
+  {
+    "response": "that�s ridiculous",
+    "intent": "no"
+  },
+  {
+    "response": "that�s not true",
+    "intent": "no"
+  },
+  {
+    "response": "no nothing as such",
+    "intent": "no"
+  },
+  {
+    "response": "I think it is true",
+    "intent": "yes"
+  },
+  {
+    "response": "I am not suicidal",
+    "intent": "no"
+  },
+  {
+    "response": "why would I think like that",
+    "intent": "no"
+  },
+  {
+    "response": "I am normal",
+    "intent": "no"
+  },
+  {
+    "response": "that�s wrong",
+    "intent": "no"
+  },
+  {
+    "response": "I think that is correct",
+    "intent": "yes"
+  },
+  {
+    "response": "yup",
+    "intent": "yes"
+  },
+  {
+    "response": "I find everything as boring",
+    "intent": "yes"
+  },
+  {
+    "response": "I am not hungry mostly",
+    "intent": "yes"
+  },
+  {
+    "response": "yes I feel like that",
+    "intent": "yes"
+  },
+  {
+    "response": "I don�t feel anything like that",
+    "intent": "no"
+  },
+  {
+    "response": "no",
+    "intent": "no"
+  },
+  {
+    "response": "everything is going according to my plan",
+    "intent": "no"
+  },
+  {
+    "response": "not very interesting to me",
+    "intent": "yes"
+  },
+  {
+    "response": "future will be good",
+    "intent": "no"
+  },
+  {
+    "response": "I feel it like that",
+    "intent": "yes"
+  },
+  {
+    "response": "few times it is true",
+    "intent": "yes"
+  },
+  {
+    "response": "I don�t harm myself",
+    "intent": "no"
+  },
+  {
+    "response": "I have left those worries to the almighty",
+    "intent": "no"
+  },
+  {
+    "response": "yeah its difficult",
+    "intent": "yes"
+  },
+  {
+    "response": "I am always hungry",
+    "intent": "yes"
+  },
+  {
+    "response": "FALSE",
+    "intent": "no"
+  },
+  {
+    "response": "it is not going to be very good",
+    "intent": "yes"
+  },
+  {
+    "response": "yeah I feel that way",
+    "intent": "yes"
+  },
+  {
+    "response": "no man",
+    "intent": "no"
+  },
+  {
+    "response": "life is on track",
+    "intent": "no"
+  },
+  {
+    "response": "some times it happens",
+    "intent": "yes"
+  },
+  {
+    "response": "incorrect",
+    "intent": "no"
+  },
+  {
+    "response": "everything feels uninteresting",
+    "intent": "yes"
+  },
+  {
+    "response": "yeup",
+    "intent": "yes"
+  },
+  {
+    "response": "yes",
+    "intent": "yes"
+  },
+  {
+    "response": "I don�t want to live anymore",
+    "intent": "yes"
+  },
+  {
+    "response": "I feel that�s what happens",
+    "intent": "yes"
+  },
+  {
+    "response": "it is not correct",
+    "intent": "no"
+  },
+  {
+    "response": "I eat on time regularly",
+    "intent": "no"
+  },
+  {
+    "response": "I hope I die soon",
+    "intent": "yes"
+  },
+  {
+    "response": "it is very difficult",
+    "intent": "yes"
+  },
+  {
+    "response": "thats wrong",
+    "intent": "no"
+  },
+  {
+    "response": "life is good now",
+    "intent": "no"
+  },
+  {
+    "response": "I am done with my life",
+    "intent": "yes"
+  },
+  {
+    "response": "everything looks okay",
+    "intent": "no"
+  },
+  {
+    "response": "only sometime",
+    "intent": "yes"
+  },
+  {
+    "response": "that is false",
+    "intent": "no"
+  },
+  {
+    "response": "feels good as of now",
+    "intent": "no"
+  },
+  {
+    "response": "no everything is fine",
+    "intent": "no"
+  },
+  {
+    "response": "no my fooding habits are okay",
+    "intent": "no"
+  },
+  {
+    "response": "this cannot happen",
+    "intent": "no"
+  },
+  {
+    "response": "I like killing myself",
+    "intent": "yes"
+  },
+  {
+    "response": "no I think im confident",
+    "intent": "no"
+  },
+  {
+    "response": "I feel like killing myself soon",
+    "intent": "yes"
+  },
+  {
+    "response": "not good",
+    "intent": "yes"
+  },
+  {
+    "response": "yes I do",
+    "intent": "yes"
+  },
+  {
+    "response": "only sometimes",
+    "intent": "yes"
+  },
+  {
+    "response": "I feel I eat properly",
+    "intent": "no"
+  },
+  {
+    "response": "this aint right",
+    "intent": "no"
+  },
+  {
+    "response": "yes its correct",
+    "intent": "yes"
+  },
+  {
+    "response": "Not happening",
+    "intent": "no"
+  },
+  {
+    "response": "na",
+    "intent": "no"
+  },
+  {
+    "response": "I want me to die",
+    "intent": "yes"
+  },
+  {
+    "response": "this cannot be done",
+    "intent": "no"
+  },
+  {
+    "response": "I feel confident",
+    "intent": "no"
+  },
+  {
+    "response": "ya",
+    "intent": "yes"
+  },
+  {
+    "response": "this is utter nonsense",
+    "intent": "no"
+  },
+  {
+    "response": "food habits seem fine",
+    "intent": "no"
+  }
+]
